@@ -680,7 +680,7 @@
                         className: "flex flex-row gap-1 mt-1",
                         children: [(0,
                         l.jsx)("a", {
-                            href: "https://x.com/irrvlo",
+                            href: "https://x.com/KirkaDeveloper",
                             children: (0,
                             l.jsx)("img", {
                                 src: "img/x98.png",
@@ -689,7 +689,7 @@
                             })
                         }), (0,
                         l.jsx)("a", {
-                            href: "https://twitch.tv/irrvlo",
+                            href: "https://twitch.tv/Poopooumgood_ttv",
                             children: (0,
                             l.jsx)("img", {
                                 src: "img/twitch98.png",
