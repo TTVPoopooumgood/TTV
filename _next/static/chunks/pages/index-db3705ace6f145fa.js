@@ -639,7 +639,7 @@
                     }), (0,
                     l.jsx)("h2", {
                         className: "text-sm",
-                        children: "@irrvlo"
+                        children: "@Poopooumgoodttv"
                     }), r.data.activities && r.data.activities.filter(e => 4 === e.type).map( (e, t) => (0,
                     l.jsxs)("div", {
                         className: "flex flex-row gap-1 mt-1 items-center",
