@@ -590,7 +590,7 @@
             (0,
             a.useEffect)( () => {
                 let fetchData = async () => {
-                    let e = await fetch("https://api.lanyard.rest/v1/users/1169111190824308768")
+                    let e = await fetch("https://api.lanyard.rest/v1/users/871895500490678273")
                       , t = await e.json();
                     n(t)
                 }
